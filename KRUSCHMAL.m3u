@@ -159,8 +159,8 @@ http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
 http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/994/index.m3u8
 #EXTINF:0,2+2
 http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/995/index.m3u8
-#EXTINF:0,ПЕРШИЙ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/1016/index.m3u8
+#EXTINF:0,ПЕРШИЙ HD
+http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
 #EXTINF:0,РЕПОРТЕР
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
 #EXTINF:0,ДУМСКАЯ ТВ
