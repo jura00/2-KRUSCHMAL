@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:0,1  ПЕРВЫЙ КАНАЛ HD
+#EXTINF:0,1 ПЕРВЫЙ КАНАЛ HD
 http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/204/index.m3u8
-#EXTINF:0,2  РОССИЯ 1 HD
+#EXTINF:0,2 РОССИЯ 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:0,3  НТВ 
+#EXTINF:0,3 НТВ 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8
 #EXTINF:-0,4 РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8
-#EXTINF:0,5  ТВЦ
+#EXTINF:0,5 ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-0,6 ЗВЕЗДА
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8
